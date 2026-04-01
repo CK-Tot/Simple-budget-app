@@ -26,7 +26,7 @@ A sleek, dark-themed budget tracker app built with vanilla HTML, CSS, and JavaSc
 
 ## Live Demo
 
-[View Live App](https://ck-tot.github.io/your-repo-name-here)
+[View Live App](https://ck-tot.github.io/Simple-budget-app/)
 
 ## Built With
 
@@ -49,7 +49,7 @@ A sleek, dark-themed budget tracker app built with vanilla HTML, CSS, and JavaSc
 
 Clone the repo and open `index.html` in your browser. No dependencies or build tools required.
 ```bash
-git clone https://github.com/CK-Tot/your-repo-name-here
+git clone https://github.com/CK-Tot/Simple-budget-app
 ```
 
 ---
